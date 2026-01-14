@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Spring_2026/Hello_World",
+        "Spring_2026/Project1"
+    ]
+}
