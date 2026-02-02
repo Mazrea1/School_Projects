@@ -1,0 +1,5 @@
+a = int(input("Enter the first value for the equation: "))
+b = int(input("Enter the second value for the equation: "))
+c = int(input("Enter the third value for the equation: "))
+result = (a+(b-c))/(2*b-a*c)
+print(f"The answer is {result}")
